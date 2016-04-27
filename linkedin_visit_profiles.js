@@ -6,9 +6,9 @@ macro = '';
 
 proxy = '';
 
-linkedinEmail = 'lauregambin@gmail.com';
+linkedinEmail = 'test@test.com';
 
-linkedinPassword = 'TheFamily_fake';
+linkedinPassword = 'password';
 
 linkedinSearch = 'https://www.linkedin.com/vsearch/p?orig=TRNV&rsid=4725815331453143220683&keywords=mandataire+judiciaire&trk=vsrp_people_sel&trkInfo=VSRPsearchId%3A4725815331453143220683%2CVSRPcmpt%3Atrans_nav'
 
