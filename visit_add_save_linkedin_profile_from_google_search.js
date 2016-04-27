@@ -100,6 +100,6 @@ for (i = 2; i <= numberOfPagesToVisit; i++) {
 
 // 7. Run de Macro
 
-iimDisplay("iMacro is now running. Let's hack growth.");
+iimDisplay("iMacro is now running.");
 
 iimPlay(macro);
