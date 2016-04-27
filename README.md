@@ -4,8 +4,8 @@
 * Download iMacros for Firefox. You can't run JavaScript Macros with the Chrome extension.
 * In the Record section click on 'Record' to create your first file
 * Using right click on the file rename it to 'name.js'
-* Then edit your macro and replace the code by one of the examples above
-* In the Play section run the macro
+* In the Manage Section click on 'Edit Macro' to edit your macro. Replace the code by one of the examples above
+* In the Play section run the macro by clicking the 'Play' button
 
 Your csv files are saved in the Downloads folder of your iMacros folder
 
